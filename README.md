@@ -1,4 +1,4 @@
-🛒 **Super Store Sales Dashboard **
+🛒 **Super Store Sales Dashboard**
 
 
 Interactive Super Store Sales Dashboard for Tracking Sales, Profit & Customer Performance
@@ -57,4 +57,4 @@ Improves understanding of operational performance across regions
 🖼 **Dashboard Screenshot**
 
 
-()
+(https://github.com/Ananyajain1506/Super-Store-Sales-Dashboard-Power-BI/blob/main/Super%20Store%20Sales%20Dashboard.png)
